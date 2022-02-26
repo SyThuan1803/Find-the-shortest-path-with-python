@@ -1,0 +1,5 @@
+maze_mapBFS.txt
+maze_mapDFS.txt
+maze_mapAStar.txt
+maze_mapRandom1.txt
+maze_mapRandom2.txt

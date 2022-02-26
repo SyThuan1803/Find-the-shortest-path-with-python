@@ -1,0 +1,3 @@
+maze_map_bonus1.txt
+maze_map_bonus2.txt
+maze_map_bonus3.txt

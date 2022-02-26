@@ -1,0 +1,2 @@
+Tất cả file/folder trong thư mục Source phải cùng nằm trong 1 thư mục
+Chạy AISolveMaze.py
